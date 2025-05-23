@@ -15,8 +15,8 @@ The service started successfully:
 
 sudo systemctl status node_exporter
 Conclusion
-Node Exporter must:
 
+Node Exporter must:
 Be an executable file with proper permissions (chmod +x)
 
 Be run by a valid user
