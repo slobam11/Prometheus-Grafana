@@ -1,6 +1,6 @@
 How I Solved It  : 
 
-relax adn enjoy 
+relax and enjoy 
 
 The problem was that the user sloba didn’t exist. I added it:
 
